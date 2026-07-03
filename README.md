@@ -1,104 +1,70 @@
-<div align="center">
+# Courage Siameh
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:2563EB,100:14B8A6&text=Courage%20Siameh&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=AI%20Systems%20%7C%20Data%20Engineering%20%7C%20Backend%20APIs&descAlignY=58&descSize=18)
+AI/ML Engineer | Data Engineer | AWS Certified Cloud Practitioner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+useful+AI+agents+and+RAG+systems;Turning+messy+data+into+working+pipelines;Shipping+FastAPI%2C+cloud%2C+and+ML+projects)](https://git.io/typing-svg)
+Accra, Ghana  
+[LinkedIn](https://www.linkedin.com/in/courage-siameh-7b82a71ab) | [GitHub](https://github.com/Courage-7)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Courage%20Siameh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/courage-siameh-7b82a71ab)
-[![GitHub](https://img.shields.io/badge/GitHub-Courage--7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Courage-7)
-[![Location](https://img.shields.io/badge/Accra-Ghana-14B8A6?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Courage-7)
+## Profile
 
-</div>
+I build production-oriented AI, data, and backend systems with a focus on LLM applications, AI agents, RAG pipelines, data engineering workflows, and cloud deployment.
 
-## About Me
+My work spans model evaluation, prompt and agent testing, FastAPI services, data pipelines, cloud storage, vector search, experiment tracking, and API integrations. I care about systems that are not just impressive in a demo, but testable, maintainable, and useful in real workflows.
 
-I am a data and AI builder based in Accra, Ghana, with a strong interest in practical GenAI systems, backend APIs, cloud workflows, and data products. My work sits around the point where machine learning, automation, and data engineering become useful software.
+## Current Direction
 
-I like building systems that can search, reason over documents, automate workflows, move data safely, and expose clean APIs for people to actually use.
+- Building AI agents with tool use, memory, evaluation, and human approval flows.
+- Designing RAG systems for document search, claim verification, and knowledge retrieval.
+- Developing backend APIs and microservices for AI-powered products.
+- Working across Python, SQL, cloud platforms, and data infrastructure.
+- Strengthening production practices around testing, observability, and reproducible ML workflows.
 
-- Studying at the University of Ghana
-- Building with Python, FastAPI, LangChain, LangGraph, Supabase, AWS, Docker, and SQL
-- Interested in AI agents, RAG, data pipelines, ML operations, and dashboards
-- Currently exploring production-style GenAI workflows with memory, tool use, and human approval gates
+## Selected Work
 
-## Tech I Work With
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-</div>
-
-## Featured Projects
-
-| Project | What it does | Stack |
+| Project | Focus | Stack |
 |---|---|---|
-| [Nkwa-AWS](https://github.com/Courage-7/Nkwa-AWS) | AI and backend-first emergency dispatch copilot prototype for Ghana's 112 workflow, with local Khaya API testing and an AWS backend design. | Python, FastAPI, AWS SAM, S3, Kinesis, Step Functions, Lambda, DynamoDB, Bedrock |
-| [Gmail-AI-Agent](https://github.com/Courage-7/Gmail-AI-Agent) | Session-aware Gmail assistant that can summarize inboxes, search mail, draft replies, extract tasks, and require approval before sending. | Python, FastAPI, LangGraph, Groq, Supabase, Docker, Gmail MCP |
-| [stauff-clamps-db-imports](https://github.com/Courage-7/stauff-clamps-db-imports) | Converts STAUFF Excel catalogue workbooks into reviewable SQL import bundles for Postgres and Supabase with source metadata for audit trails. | Python, PLpgSQL, PostgreSQL, Supabase |
-| [LangChain-RAG-assistant](https://github.com/Courage-7/LangChain-RAG-assistant) | Document RAG assistant for semantic search, question answering, query optimization, and evaluation across multiple file types. | Python, LangChain, Streamlit, Sentence Transformers, vector search |
-| [huggingface-etl](https://github.com/Courage-7/huggingface-etl) | ETL pipeline that extracts Hugging Face model metadata, validates and transforms it, then loads it into MongoDB. | Python, Hugging Face API, MongoDB, batch processing |
-| [DocumentScrapper](https://github.com/Courage-7/DocumentScrapper) | FastAPI document search, download, validation, processing, and reporting system with parallel downloads and structured logging. | Python, FastAPI, FireCrawl, Poetry |
-| [MLFlow-Iris-Classification](https://github.com/Courage-7/MLFlow-Iris-Classification) | End-to-end ML workflow with training, inference, REST API serving, tests, and experiment tracking. | Python, MLflow, scikit-learn, FastAPI, Docker |
-| [Geopolitical_Conflict_Project](https://github.com/Courage-7/Geopolitical_Conflict_Project) | Machine learning and GenAI exploration for geopolitical conflict analysis and mitigation. | Python, Jupyter Notebook, ML, GenAI |
+| [Nkwa-AWS](https://github.com/Courage-7/Nkwa-AWS) | AI/backend emergency dispatch copilot prototype for Ghana's 112 workflow, including Khaya API testing and an AWS backend design. | Python, FastAPI, AWS SAM, S3, Kinesis, Step Functions, Lambda, DynamoDB, Bedrock |
+| [Gmail-AI-Agent](https://github.com/Courage-7/Gmail-AI-Agent) | Session-aware Gmail assistant for inbox summaries, search, reply drafting, task extraction, and approval-gated sending. | Python, FastAPI, LangGraph, Groq, Supabase, Docker, Gmail MCP |
+| [LangChain-RAG-assistant](https://github.com/Courage-7/LangChain-RAG-assistant) | Modular RAG assistant for document ingestion, semantic retrieval, question answering, and evaluation. | Python, LangChain, Streamlit, Sentence Transformers, FAISS |
+| [stauff-clamps-db-imports](https://github.com/Courage-7/stauff-clamps-db-imports) | Excel-to-SQL import workflow for STAUFF product catalogue data with reviewable Postgres/Supabase migration output. | Python, PLpgSQL, PostgreSQL, Supabase |
+| [huggingface-etl](https://github.com/Courage-7/huggingface-etl) | ETL pipeline for extracting Hugging Face model metadata, validating it, and loading it into MongoDB. | Python, Hugging Face API, MongoDB, Apache Spark |
+| [DocumentScrapper](https://github.com/Courage-7/DocumentScrapper) | Document search, download, validation, processing, and report generation through a FastAPI service. | Python, FastAPI, FireCrawl, Poetry |
+| [MLFlow-Iris-Classification](https://github.com/Courage-7/MLFlow-Iris-Classification) | End-to-end ML workflow covering training, inference, REST serving, tests, and experiment tracking. | Python, MLflow, scikit-learn, FastAPI, Docker |
+| [WACCBIP](https://github.com/Courage-7/WACCBIP) | Dashboard work connected to public health data workflows and malaria surveillance tooling. | TypeScript, dashboard development |
 
-## GitHub Snapshot
+## Experience Signals
 
-<div align="center">
+- Built and deployed FastAPI-based ML services for LLM-powered applications.
+- Developed RAG systems with configurable embedding, retrieval, query optimization, and evaluation components.
+- Fine-tuned a DeepSeek-Qwen model on a medical dataset using PEFT/LoRA workflows.
+- Built a Go-based MCP microservice exposing secure tool endpoints for on-chain data access.
+- Designed AI agent evaluation prompts, scoring criteria, and task test cases for autonomous coding agents.
+- Led backend work for a malaria surveillance platform using FastAPI, PostgreSQL, Supabase, Redis, Alembic, Docker, Pytest, OAuth2, JWT, and RBAC.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Courage-7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Courage's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Courage-7&layout=compact&theme=tokyonight&hide_border=true" alt="Courage's top languages" />
+## Core Stack
 
-<br />
+**Languages**  
+Python, SQL, Go, Java, R
 
-<img src="https://streak-stats.demolab.com?user=Courage-7&theme=tokyonight&hide_border=true" alt="Courage's GitHub streak" />
+**AI and ML**  
+LangChain, LangGraph, LangFuse, PyTorch, TensorFlow, Hugging Face Transformers, Sentence Transformers, OpenAI-compatible APIs, Unsloth, OpenCV
 
-</div>
+**Backend and APIs**  
+FastAPI, Flask, Pydantic, REST APIs, Model Context Protocol, Docker, Pytest
 
-## What I Am Exploring
+**Data Engineering**  
+PostgreSQL, Supabase, MongoDB, MySQL, REDCap, Apache Spark, PySpark, Spark SQL, Pandas, NumPy
 
-```text
-AI agents        -> tool use, memory, approvals, workflow automation
-RAG systems      -> retrieval, document processing, evaluation
-Data engineering -> ETL, SQL imports, validation, cloud storage
-ML operations    -> experiment tracking, model serving, tested APIs
-Dashboards       -> analytical products for monitoring and decisions
-```
+**Cloud and MLOps**  
+AWS, Google Cloud Platform, Azure, MLflow, Weights & Biases, GitHub Actions, Azure Blob Storage, GCP Cloud Run
 
-## Selected Repo Cards
+## Certifications
 
-<div align="center">
+- AWS Certified Cloud Practitioner, valid May 2026 - May 2029
+- Google Cloud Certified Professional Data Engineer, valid September 2025 - September 2027
+- UiPath Certified Professional Automation Developer Associate, July 2025
+- IBM Data Analyst, Coursera
 
-<a href="https://github.com/Courage-7/Nkwa-AWS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Courage-7&repo=Nkwa-AWS&theme=tokyonight&hide_border=true" alt="Nkwa-AWS repo card" />
-</a>
-<a href="https://github.com/Courage-7/Gmail-AI-Agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Courage-7&repo=Gmail-AI-Agent&theme=tokyonight&hide_border=true" alt="Gmail-AI-Agent repo card" />
-</a>
-<a href="https://github.com/Courage-7/LangChain-RAG-assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Courage-7&repo=LangChain-RAG-assistant&theme=tokyonight&hide_border=true" alt="LangChain-RAG-assistant repo card" />
-</a>
-<a href="https://github.com/Courage-7/huggingface-etl">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Courage-7&repo=huggingface-etl&theme=tokyonight&hide_border=true" alt="huggingface-etl repo card" />
-</a>
+## What I Like Building
 
-</div>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,50:2563EB,100:0D1117)
-
-</div>
+I am drawn to problems where AI needs structure around it: retrieval, evaluation, secure tool use, clean APIs, data movement, and deployment. The interesting part is not only getting a model to respond, but building the system around it so the response can be trusted, tested, and used.
