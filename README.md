@@ -16,14 +16,6 @@
 
 I am an AI/ML Engineer and Data Engineer building production-oriented systems around LLMs, AI agents, retrieval, data pipelines, backend APIs, and cloud deployment.
 
-My work is usually somewhere between model intelligence and real software: RAG systems, agent evaluation, prompt and tool workflows, FastAPI services, data ingestion, vector search, experiment tracking, and deployment pipelines.
-
-```text
-focus        : LLM applications, RAG, AI agents, data engineering, backend systems
-working with : Python, SQL, FastAPI, LangChain, LangGraph, Supabase, AWS, Docker
-principle    : make AI systems useful, testable, observable, and deployable
-```
-
 ---
 
 ## Tech Stack
