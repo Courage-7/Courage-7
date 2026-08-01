@@ -112,14 +112,6 @@ IBM Data Analyst                                  Coursera
 
 ---
 
-## Current Interests
-
-```text
-agent reliability    -> evaluation, tool constraints, approval flows
-retrieval quality    -> chunking, ranking, semantic search, answer scoring
-data infrastructure  -> ETL, Spark, SQL, metadata, validation
-cloud AI systems     -> FastAPI, Docker, AWS, GCP, Azure, CI/CD
-```
 
 <div align="center">
 
